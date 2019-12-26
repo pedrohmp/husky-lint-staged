@@ -10,12 +10,11 @@ function App() {
         <p>Edit and save to reload. learn react</p>
         <a
           className="App-link"
-          href="ht
-          tps://reactjs.org"
+          href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Rea ct
+          Learn
         </a>
       </header>
     </div>
